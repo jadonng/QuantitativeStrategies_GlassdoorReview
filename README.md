@@ -17,7 +17,13 @@ On top of the numerical feature-based alpha signals, we performed topic modellin
 - Google Colab (~50 compute hours) free tier facilities.
 
 ## Directory Structure
-We have separated the source code based on the following structure. The folder `analysis` contains several notebooks we used when performing alpha research. The `backtesting` directory contains our backtesting system as well as several notebooks for testing our generated signals. Then, `eda` contains some notebooks for Exploratory Data Analysis (EDA) and `preprocessing` contains a collection of notebooks for textual data preprocessing. Finally, we have `utils` which contains some helper functions and a `requirements.txt` file to list all our dependencies.
+We have separated the source code based on the following structure. 
+- `analysis` contains several notebooks we used when performing alpha research
+- `backtesting` contains our backtesting system as well as several notebooks for testing our generated signals
+- `eda` contains some notebooks for Exploratory Data Analysis (EDA)
+- `preprocessing` contains a collection of notebooks for textual data preprocessing
+- `utils` contains some helper functions
+- `requirements.txt` is a file that lists all our dependencies.
 
 ```bash
 ├── README.md
