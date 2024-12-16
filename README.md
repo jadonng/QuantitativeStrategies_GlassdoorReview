@@ -13,17 +13,17 @@ The project was supervised by Dr. Yang You and his team. The final research pape
 
 On top of the numerical feature-based alpha signals, we performed topic modelling utilizing Singular Value Decomposition (SVD) for preprocessing reviews, coupled with Latent Dirichlet Allocation (LDA), with BERT-Twitter by Barbieri et al. (2020) from the Hugging Face repository. We used the following cloud computing resources to generate sentiment scores with the pre-trained model.
 
-- NVIDIA RTX 2080Ti (~100 compute hours) provided by the HKU School of Computing and Data Science.
-- Google Colab (~50 compute hours) free tier facilities.
+- NVIDIA RTX 2080Ti (~100 compute hours) provided by the HKU School of Computing and Data Science
+- Google Colab (~50 compute hours) free tier facilities
 
 ## Directory Structure
-We have separated the source code based on the following structure. 
+We have separated the source code based on the following structure
 - `analysis` contains several notebooks we used when performing alpha research
 - `backtesting` contains our backtesting system as well as several notebooks for testing our generated signals
 - `eda` contains some notebooks for Exploratory Data Analysis (EDA)
 - `preprocessing` contains a collection of notebooks for textual data preprocessing
 - `utils` contains some helper functions
-- `requirements.txt` is a file that lists all our dependencies.
+- `requirements.txt` is a file that lists all our dependencies
 
 ```bash
 ├── README.md
