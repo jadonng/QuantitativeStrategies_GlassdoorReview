@@ -17,3 +17,30 @@ On top of the numerical feature-based alpha signals, we performed topic modellin
 - Google Colab (~50 compute hours) free tier facilities.
 
 ## Directory Structure
+
+```bash
+├── README.md
+├── analysis
+│   ├── hold_PF.ipynb
+│   ├── ratingleadership.ipynb
+│   └── regression.ipynb
+├── backtesting
+│   ├── Backtester.py
+│   ├── backtest_draft.ipynb
+│   └── backtest_strategies.ipynb
+├── eda
+│   ├── EDA.ipynb
+│   └── EDA_aggdf.ipynb
+├── preprocessing
+│   ├── preprocess_OLS_df.ipynb
+│   ├── preprocess_feature_db.ipynb
+│   ├── preprocess_ratings.ipynb
+│   ├── preprocess_returns.ipynb
+│   ├── preprocess_toDataframes.ipynb
+│   ├── preprocess_topic-sentiment-prep.ipynb
+│   └── preprocess_topic-sentiment.ipynb
+├── requirements.txt
+└── utils
+    ├── cleaning.ipynb
+    └── helper.py
+```
