@@ -12,8 +12,9 @@ This project was supervised by Dr. Yang You and his research team.
 
 ## Model Description and Computing Resources
 
-On top of the numerical feature-based signals, we performed topic modelling utilizing Singular Value Decomposition (SVD) for preprocessing reviews, coupled with Latent Dirichlet Allocation (LDA), with BERT-Twitter by Barbieri et al. (2020).
-We used the following cloud computing resources to generate sentiment scores with the pre-trained model.
+On top of the numerical feature-based signals, we performed topic modelling utilizing Singular Value Decomposition (SVD) for preprocessing reviews, coupled with Latent Dirichlet Allocation (LDA), with BERT-Twitter by Barbieri et al. (2020) from the Hugging Face repository. We used the following cloud computing resources to generate sentiment scores with the pre-trained model.
 
 - NVIDIA RTX 2080Ti (~100 compute hours) provided by the HKU School of Computing and Data Science.
 - Google Colab (~50 compute hours) free tier facilities.
+
+## Directory Structure
