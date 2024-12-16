@@ -1,8 +1,7 @@
 # Quantitative Strategies with Glassdoor Reviews
 
 A repository owned by `Group 3` for FINA4359: Data Analytics, Quantitative Finance, and Blockchain Finance by the University of Hong Kong. The objective was to conduct alpha-signal research based on a textual employer ratings data set.
-This project was supervised by Dr. Yang You and his research team.
-
+This project was supervised by Dr. Yang You and his research team. The final paper can be found [here](https://theoobadiahteguh.net/assets/glassdoor.pdf).
 ## Our Group Members and UIDs
 
 - (UID: 3036076067) Jadon Ng Tsz Hei
